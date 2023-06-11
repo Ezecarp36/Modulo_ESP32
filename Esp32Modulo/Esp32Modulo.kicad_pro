@@ -34,8 +34,8 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.00076,
-          "height": 2.19964,
+          "drill": 0.5,
+          "height": 2.2,
           "width": 2.0
         },
         "silk_line_width": 0.15,
